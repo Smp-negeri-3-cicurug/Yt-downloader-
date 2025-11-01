@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vercel dev",
-    "build": "vercel build",
+    "build": "echo 'Nothing to build, using Edge Functions only'",
     "deploy": "vercel --prod"
   },
   "keywords": [
